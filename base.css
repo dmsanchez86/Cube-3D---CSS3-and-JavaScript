@@ -23,8 +23,8 @@ a:focus,.controls button:focus{
 }
 
 body{
-	background-image			: -webkit-radial-gradient(center, #111, #323232);
-	background-image			: radial-gradient(center, #111, #323232);
+	background-image			: -webkit-radial-gradient(center,  rgba(17, 17, 17, 0.42), #323232);
+	background-image			: radial-gradient(center,  rgba(17, 17, 17, 0.42), #323232);
 	font-family					: Helvetica;
 	overflow					: hidden; 
 	perspective					: 860px;
