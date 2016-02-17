@@ -127,37 +127,37 @@ body.active .wrapper{
 }
 
 .content .head .front{
-	background-color	: rgba(255, 192, 203, 0.99);
+	background-color	: rgba(255, 192, 203, 0.89);
 	-webkit-transform 	: translatez(50px); 
 			transform 	: translatez(50px); 
 }
 
 .content .head .back{
-	background-color	: rgba(215,0,5,.99);
+	background-color	: rgba(215,0,5,.89);
 	-webkit-transform 	: translatez(-50px) rotatey(180deg); 
 			transform 	: translatez(-50px) rotatey(180deg); 
 }
 
 .content .head .left{
-	background-color	: rgba(59,130,75,.99);
+	background-color	: rgba(59,130,75,.89);
 	-webkit-transform 	: rotatey(-90deg) translatez(50px); 
 			transform 	: rotatey(-90deg) translatez(50px); 
 }
 
 .content .head .right {
-	background-color	: rgba(99,230,210,.99);
+	background-color	: rgba(99,230,210,.89);
 	-webkit-transform 	: rotatey(90deg) translatez(50px); 
 			transform 	: rotatey(90deg) translatez(50px); 
 }
 
 .content .head .top {
-	background-color	: rgba(255,200,255,.99);
+	background-color	: rgba(255,200,255,.89);
 	-webkit-transform 	: rotatex(90deg) translatez(50px); 
 			transform 	: rotatex(90deg) translatez(50px); 
 }
 
 .content .head .bottom {
-	background-color	: rgba(9,190,255,.99);
+	background-color	: rgba(9,190,255,.89);
 	-webkit-transform 	: rotatex(-90deg) translatez(50px); 
 			transform 	: rotatex(-90deg) translatez(50px); 
 }
