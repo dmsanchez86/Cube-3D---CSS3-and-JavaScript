@@ -24,6 +24,7 @@ a:focus,.controls button:focus{
 
 body{
 	background-image			: -webkit-radial-gradient(center,  rgba(17, 17, 17, 0.42), #323232);
+	background-image			: -moz-radial-gradient(center,  rgba(17, 17, 17, 0.42), #323232);
 	background-image			: radial-gradient(center,  rgba(17, 17, 17, 0.42), #323232);
 	font-family					: Helvetica;
 	overflow					: hidden; 
@@ -51,6 +52,7 @@ body.active .hover{
 }
 body.active .wrapper{
 	background-image			: -webkit-radial-gradient(center,#323232,#ddd); 
+	background-image			: -moz-radial-gradient(center,#323232,#ddd); 
 	background-image			: radial-gradient(center,#323232,#ddd); 
 	-webkit-transform 			: scale(1) rotatey(25deg) translatex(300px);
 			transform 			: scale(1) rotatey(25deg) translatex(300px);
